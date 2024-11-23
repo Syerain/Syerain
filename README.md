@@ -1,7 +1,7 @@
 ## Hi there 👋 It's Syerain here
 Long live the great unity of people of our world !
 
-## Self introduction
+## About
 - 🇨🇳 Guangdong, China
 - 🌍 zh-CN / en-US / (?Hakka)
 - 📖 A senior high school student in China.
