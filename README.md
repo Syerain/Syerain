@@ -21,6 +21,7 @@ Long live the great unity of people of our world !
 
 ## Devices
 ![iQOO Neo7 SE](https://img.shields.io/badge/iQOO%20Neo7%20SE-3498DB?style=flat-square&logo=vivo&logoColor=ffffff)
+![Windows PC](https://custom-icon-badges.demolab.com/badge/Windows%20PC-0078D6?logo=windows11&logoColor=white)
 ![Apple MacBook Air 13" 2020](https://img.shields.io/badge/Apple%20MacBook%20Air%2013%22%202020%20M1-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 
 ## Status
