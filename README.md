@@ -1,2 +1,2 @@
-## greets, it's syerain here.
-just dont wanna racking my brains on writing profile :)
+## oh, welcome to visit syerain
+i just dont wanna racking my brains on writing profile :)
